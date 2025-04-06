@@ -1,2 +1,2 @@
 # misc-codes.
-misc codes of all types in one repo
+misc codes of all types in one repository 
